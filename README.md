@@ -1,4 +1,4 @@
-## 👤 Matheus do Nascimento
+![banner](./media/banner.png)
 
 >DevOps Engineer with **6+ years** of experience in deploying, automating, and managing complex infrastructures, and developing modules and features for enterprise-grade solutions.
 
@@ -14,40 +14,37 @@ I'm integrating **Generative AI** in my daily workflow to maximize my deliveries
 
 ## 🛠️ Skills
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,jenkins,gcp,grafana,prometheus,python,bash,cs,nodejs,postgresql,linux"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,jenkins,gcp,grafana,prometheus,python,bash,cs,nodejs,postgresql,linux)
 
 ### ☁️ DevOps & Cloud
 
-- Kubernetes
-- Docker
-- Apigee
-- Terraform
-- Ansible
-- Jenkins/CloudBuild
-- ArgoCD
-- Vault
+- **Kubernetes**: Helm, Gatekeeper and Container Orchestration
+- **Docker**: Containerization
+- **Apigee**: API Management
+- **Terraform**: IaC Provisioning
+- **Ansible**: Configuration Management
+- **Jenkins/CloudBuild**: CI/CD Pipelines
+- **ArgoCD**: GitOps for Kubernetes
+- **Vault**: Secret Management
 
 ### 🥽 Observability
 
-- Datadog
-- Grafana
-- Prometheus
+- **Datadog**: Full Observability Tool
+- **Grafana**: Visualization for Metrics
+- **Prometheus**: Metric Scraper and Alerts
 
 ### 💻 Software Development
 
-- .NET Framework & Core
-- Node.js
-- Python
-- Bash
-- PostgreSQL
-- MySQL
+- **.NET Framework & Core**: Enterprise Development Stack
+- **Node.js**: Web-Native Development Stack
+- **Python/Bash**: Automation and Batch Processing
+- **PostgreSQL**: Enterprise Relational Database
+- **MySQL**: Fast Relational Database
 
 ### ➕ Others
 
-- Linux
-- Prompt engineering
+- **Linux**: Ubiquitous Operating System
+- **Prompt engineering**: HQ AI Results
 
 ## 📚 Experience
 
@@ -61,3 +58,5 @@ If you want, you're free to reach me out for potential collaborations and opport
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matnascimento/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mtnsc)
+
+![Footer](./media/footer.png)
