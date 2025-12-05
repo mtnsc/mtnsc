@@ -1,6 +1,6 @@
-## 👤 Matheus Nascimento
+## 👤 Matheus do Nascimento
 
->DevOps Engineer with **6+ years** of experience in deploying, automating, and managing complex infrastructures on **Google Cloud** and **On-Prem**. 
+>DevOps Engineer with **6+ years** of experience in deploying, automating, and managing complex infrastructures, and developing modules and features for enterprise-grade solutions.
 
 ![DevOps](https://img.shields.io/badge/DevOps-orange?style=for-the-badge&logo=buddy&logoColor=white)
 ![AI](https://img.shields.io/badge/Ai-grey?style=for-the-badge&logo=gotomeeting&logoColor=white)
@@ -8,9 +8,9 @@
 ![Engineering](https://img.shields.io/badge/Engineering-purple?style=for-the-badge&logo=compilerexplorer&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linuxfoundation&logoColor=white)
 
-My experiences with DevOps tools, system administration, and software engineering, gives me a strong know-how on multiple areas: From developing microservices in C# in accordance with **industry's standards**, such as clean code, SOLID and DDD; to provisioning **cloud-native** environments in Google Cloud, using Terraform, providing reliable and scalable infrastructures for live applications. 
+My experiences with DevOps tools, system administration, and software engineering, gives me a strong know-how on multiple areas: From developing microservices in C# in accordance with **industry's standards**, such as clean code, SOLID and DDD; to provisioning **cloud-native** environments in **Google Cloud**, using Terraform, providing reliable and scalable infrastructures for live applications. 
 
-I'm integrating **Generative AI** in my daily workflow to maximize my deliveries, it helps me generating templates, debugging and aggregating useful ata from multiple websites.
+I'm integrating **Generative AI** in my daily workflow to maximize my deliveries, it helps me generating templates, debugging and aggregating useful data from multiple websites.
 
 ## 🛠️ Skills
 
@@ -22,6 +22,7 @@ I'm integrating **Generative AI** in my daily workflow to maximize my deliveries
 
 - Kubernetes
 - Docker
+- Apigee
 - Terraform
 - Ansible
 - Jenkins/CloudBuild
